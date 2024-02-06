@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Morning Routine Checklist",
+    "items": [
+      {"id": 1, "text": "Wake up at a set time."},
+      {"id": 2, "text": "Drink a glass of water."},
+      {"id": 3, "text": "Exercise or stretch."},
+      {"id": 4, "text": "Shower and personal hygiene."},
+      {"id": 5, "text": "Eat a healthy breakfast."},
+      {"id": 6, "text": "Review your day's agenda."}
+    ]
+  },
+  {
+    "name": "Work/Study Checklist",
+    "items": [
+      {"id": 1, "text": "Check and organize emails."},
+      {"id": 2, "text": "Prioritize tasks for the day."},
+      {"id": 3, "text": "Attend meetings or classes."},
+      {"id": 4, "text": "Complete assignments or projects."},
+      {"id": 5, "text": "Take regular short breaks."},
+      {"id": 6, "text": "Update progress on tasks."}
+    ]
+  },
+  {
+    "name": "Meal Planning and Grocery Shopping Checklist",
+    "items": [
+      {"id": 1, "text": "Inventory pantry and fridge items."},
+      {"id": 2, "text": "Plan meals for the week."},
+      {"id": 3, "text": "Create a shopping list based on meal plans."},
+      {"id": 4, "text": "Check for coupons or sales."},
+      {"id": 5, "text": "Organize shopping list by store sections."}
+    ]
+  },
+  {
+    "name": "House Cleaning Checklist",
+    "items": [
+      {"id": 1, "text": "Daily tidying (dishes, making the bed, etc.)."},
+      {"id": 2, "text": "Weekly cleaning tasks (vacuuming, dusting, bathroom cleaning)."},
+      {"id": 3, "text": "Monthly deep-cleaning tasks (cleaning the oven, washing windows)."},
+      {"id": 4, "text": "Seasonal chores (decluttering, changing HVAC filters)."}
+    ]
+  },
+  {
+    "name": "Personal Finance Checklist",
+    "items": [
+      {"id": 1, "text": "Track daily spending."},
+      {"id": 2, "text": "Review and pay bills on time."},
+      {"id": 3, "text": "Monitor account balances and investments."},
+      {"id": 4, "text": "Set aside savings."},
+      {"id": 5, "text": "Review financial goals and progress."}
+    ]
+  },
+  {
+    "name": "Self-care Checklist",
+    "items": [
+      {"id": 1, "text": "Schedule and take breaks throughout the day."},
+      {"id": 2, "text": "Engage in a hobby or interest."},
+      {"id": 3, "text": "Practice mindfulness or meditation."},
+      {"id": 4, "text": "Connect with friends or family."},
+      {"id": 5, "text": "Read or learn something new."}
+    ]
+  },
+  {
+    "name": "Evening Routine Checklist",
+    "items": [
+      {"id": 1, "text": "Prepare for the next day (clothing, to-do list)."},
+      {"id": 2, "text": "Limit screen time before bed."},
+      {"id": 3, "text": "Reflect on the day's achievements and challenges."},
+      {"id": 4, "text": "Engage in a relaxing activity (reading, bath)."},
+      {"id": 5, "text": "Go to bed at a set time."}
+    ]
+  },
+  {
+    "name": "Travel Checklist",
+    "items": [
+      {"id": 1, "text": "Check travel documents (passport, visas, tickets)."},
+      {"id": 2, "text": "Pack clothes and essentials according to the weather and activities."},
+      {"id": 3, "text": "Arrange for pet/plant care."},
+      {"id": 4, "text": "Secure the home (lock doors, set alarms)."},
+      {"id": 5, "text": "Confirm reservations and transportation."}
+    ]
+  }
+]
+
